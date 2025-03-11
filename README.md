@@ -114,13 +114,3 @@ Tickets can be created via:
 - **Justifying workload & team efficiency** 🏆  
 - **Ensuring accountability & documentation** 📝  
 
----
-
-## 8. Finishing Up & Additional Practice  
-✅ Explore more features (especially the **email feature**)  
-✅ Repeat this lab multiple times to **build intuition**  
-✅ Develop the **Technical Skill Pillar** by redoing and mastering the lab  
-
----
-
-🎯 **Goal:** By practicing enough times, you should be able to implement this process using only a **simple checklist**! 🚀
